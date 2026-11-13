@@ -1,0 +1,2 @@
+# PowerShell 腳本原樣保存（含 UTF-8 BOM，Windows PowerShell 5.1 讀中文才不會亂碼）
+*.ps1 -text
